@@ -1,15 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Switch.cs">
     <Files>
-      <File FileName="Assets\Switch.cs" Line="11" Column="1" />
-      <File FileName="Assets\Scripts\GameManager.cs" Line="24" Column="37" />
-      <File FileName="D:\Primetus Clone\Z4\Assets\Scripts\Player\StatManager.cs" Line="1" Column="1" />
-      <File FileName="D:\Primetus Clone\Z4\Assets\Scripts\Player\Controller\Third_Person_Controller.cs" Line="1" Column="1" />
-      <File FileName="D:\Primetus Clone\Z4\Assets\Scripts\Player\Equipment.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Card.cs" Line="1" Column="1" />
-      <File FileName="D:\Primetus Clone\Z4\Assets\Scripts\LivingEntities\InteractableNPC.cs" Line="1" Column="1" />
-      <File FileName="D:\Primetus Clone\Z4\Assets\Scripts\Entities\Door.cs" Line="1" Column="1" />
+      <File FileName="Assets\Switch.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
