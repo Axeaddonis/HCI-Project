@@ -17,6 +17,6 @@ public abstract class Card : MonoBehaviour
 	public int BlackCost;
 	public int ColorlessCost;
 	public bool tapped;
-
+	
 	public abstract void effect1();
 }

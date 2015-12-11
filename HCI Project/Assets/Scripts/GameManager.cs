@@ -7,9 +7,13 @@ public class GameManager : MonoBehaviour {
 	int PhaseNumber;
 	bool PhaseInit;
 	bool NextPhaseFlag;
+	Player player1;
+	Player player2;
 
 	// Use this for initialization
 	void Start () {
+		player1 = new Player (1);
+		player2 = new Player (2);
 		PhaseNumber = 0;
 		PlayerTurn = 1;
 		PhaseInit = false;
