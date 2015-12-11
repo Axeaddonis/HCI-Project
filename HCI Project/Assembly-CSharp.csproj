@@ -47,7 +47,6 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Card.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
-     <Compile Include="Assets\Scripts\LightningBolt.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\goblinRoughrider.cs" />
      <Compile Include="Assets\Scripts\lava_axe.cs" />

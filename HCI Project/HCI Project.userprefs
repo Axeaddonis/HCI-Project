@@ -1,21 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-<<<<<<< HEAD
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LightningBolt.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\mountain.cs">
     <Files>
-      <File FileName="Assets\Scripts\Card.cs" Line="23" Column="1" />
-      <File FileName="Assets\Scripts\Player.cs" Line="8" Column="26" />
-      <File FileName="Assets\Scripts\LightningBolt.cs" Line="1" Column="1" />
-=======
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\lava_axe.cs">
-    <Files>
-      <File FileName="Assets\Scripts\Card.cs" Line="18" Column="126" />
-      <File FileName="Assets\Scripts\Player.cs" Line="73" Column="25" />
-      <File FileName="Assets\Scripts\GameManager.cs" Line="239" Column="2" />
-      <File FileName="Assets\Scripts\mountain.cs" Line="52" Column="58" />
-      <File FileName="Assets\Scripts\goblinRoughrider.cs" Line="69" Column="29" />
-      <File FileName="Assets\Scripts\lava_axe.cs" Line="56" Column="97" />
->>>>>>> newBranch
+      <File FileName="Assets\Scripts\Card.cs" Line="18" Column="23" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="267" Column="1" />
+      <File FileName="Assets\Scripts\goblinRoughrider.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\lava_axe.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LightningBolt.cs" Line="28" Column="1" />
+      <File FileName="Assets\Scripts\Player.cs" Line="23" Column="16" />
+      <File FileName="Assets\Scripts\mountain.cs" Line="5" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

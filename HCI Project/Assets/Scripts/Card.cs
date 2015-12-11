@@ -18,25 +18,6 @@ public abstract class Card
 	public bool tapped;				// Indicates whether the card has been used in a turn (in which case it usually cannot be used again)
 									// Tapped is accessed but not ever changed for any functionality
 	public GameManager gameManager;	// Access to the game manager
-
-<<<<<<< HEAD
-	public string CardColor;
-	public string CardName;
-	public string CardType;
-	public string CardSubType;
-	public int TotalCost;
-	public int RedCost;
-	public int BlueCost;
-	public int GreenCost;
-	public int WhiteCost;
-	public int BlackCost;
-	public int ColorlessCost;
-	public bool tapped;
-	
-	public abstract void effect1();
-=======
 	public abstract void effect1();	// All cards have at least one effect - this implements that effect
 	public abstract void play();	// Puts cards in play
-
->>>>>>> newBranch
 }

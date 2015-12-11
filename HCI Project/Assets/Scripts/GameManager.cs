@@ -6,14 +6,6 @@ using System.Collections;
 // GameManager handles all the game rules based on the Magic: The Gathering rulebook
 public class GameManager : MonoBehaviour {
 
-<<<<<<< HEAD
-	int PlayerTurn;
-	int PhaseNumber;
-	bool PhaseInit;
-	bool NextPhaseFlag;
-	Player player1;
-	Player player2;
-=======
 	public Player player1;				// Player 1
 	public Player player2;				// Player 2
 	public int PlayerTurn;				// Indicates which player is taking his turn
@@ -30,7 +22,6 @@ public class GameManager : MonoBehaviour {
 	public Card lavaAxeCard;			// Class that implements the Lava Axe card
 	public Card goblinRoughRiderCard;	// Class that implements the Goblin Rough Rider card
 	int damage;							// Used for damace calculation during combat phase
->>>>>>> newBranch
 
 	// Use this for initialization
 	void Start () {

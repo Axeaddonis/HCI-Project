@@ -14,23 +14,11 @@ public class Player{
 	int whiteMana;				// Amount of white mana in the player's mana pool - not used
 	bool hasCards;				// Used to prevent issues with the card array
 
-<<<<<<< HEAD
-	// Use this for initialization
-	public int playerNumber;
-	public int health;
-	public List<Card> cards;
-
-	// Update is called once per frame
-=======
 	// Constructor
->>>>>>> newBranch
 	public Player(int playernum) 
 	{
 		playerNumber = playernum;
 		health = 20;
-<<<<<<< HEAD
-		cards = new List<Card> ();
-=======
 		cards = new Card[20];
 		numCards = 0;
 		redMana = 0;
@@ -83,6 +71,5 @@ public class Player{
 
 		else
 			return "\n No Cards";
->>>>>>> newBranch
 	}
 }
