@@ -29,6 +29,7 @@ public class Card : MonoBehaviour
 
 	public int power;
 	public int toughness;
+	public bool tapped;
 
 
 	public Card()
