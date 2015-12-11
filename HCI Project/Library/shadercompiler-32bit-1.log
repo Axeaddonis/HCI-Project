@@ -1,3 +1,35 @@
-Base path: D:/Unity32/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-4740
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-7060
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=683 outsize=683 ok=1
+Cmd: preprocess
+  insize=997 outsize=997 ok=1
+Cmd: preprocess
+  insize=534 outsize=534 ok=1
+Cmd: preprocess
+  insize=944 outsize=276 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=968 outsize=1152 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=968 outsize=754 kw= pd= ok=1
+Cmd: preprocess
+  insize=576 outsize=576 ok=1
+Cmd: preprocess
+  insize=923 outsize=923 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1162 outsize=973 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1162 outsize=518 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3695 outsize=2753 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3695 outsize=1168 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6820 outsize=3663 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6820 outsize=1314 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3592 outsize=2753 kw=DIRECTIONAL pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3592 outsize=1168 kw=DIRECTIONAL pd= ok=1
